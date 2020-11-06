@@ -1,4 +1,4 @@
-Hello World...
+Hello World
 
 Change 1- for login feature
 
@@ -11,3 +11,5 @@ Change 4- to fix bug2
 Change 5-to test push normal to remote master
 
 Change 6-This is by teammate for CR1 on remote master to test rebase
+
+Change 7-Teammate change for CR2 on remote master
