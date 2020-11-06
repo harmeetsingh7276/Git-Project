@@ -1,13 +1,7 @@
 
-gWelcome to Git Demo:
+Welcome to Git Demo:
 Change 1: done by teammate  on masterfor WI5
 Change 2: for feature payment ro test rebase and Change test rebase in EN1
 Check rebase merging
 
-
-gsdg
-gsadasa
-
-sadasjdnasd
-safasfasa
-afs
+Change 3: test stasth for halfdone 
